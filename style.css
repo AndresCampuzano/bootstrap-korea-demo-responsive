@@ -9,7 +9,7 @@
 
 
 #carouselSlides img {
-    max-height: 500px;
+    height: 500px;
     object-fit: cover;
     filter: brightness(50%);
 
