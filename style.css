@@ -1,3 +1,18 @@
+
+
+#carouselSlides img {
+    height: 500px;
+    object-fit: cover;
+    filter: brightness(50%);
+
+}
+
+#photos img {
+    height: 350px;
+    object-fit: cover;
+
+}
+
 #footer {
     background: #1c3643;
     ;
@@ -7,10 +22,3 @@
     color: white;
 }
 
-
-#carouselSlides img {
-    height: 500px;
-    object-fit: cover;
-    filter: brightness(50%);
-
-}
